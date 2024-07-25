@@ -1,0 +1,2 @@
+class LinkedinConnection < ApplicationRecord
+end

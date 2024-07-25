@@ -1,0 +1,2 @@
+module LinkedinConnectionsHelper
+end
