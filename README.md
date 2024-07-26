@@ -13,8 +13,10 @@ Run bundle + migrate and run bin/dev
 bin/dev
 ```
 
-My main feature is using OpenAI API, you can find here
+My main feature is using OpenAI API and convert CSV to json to upload, you can find here
+I'm not too focus on UI so you can see it's quite simple but it's enough to use
 
+[CsvCleanup](https://github.com/HaiH1ep/simple_ai_chat/blob/main/app/services/csv_cleanup.rb)
 [OpenaiService](https://github.com/HaiH1ep/simple_ai_chat/blob/main/app/services/openai_service.rb)
 
 I'm using RSpec for testing, you can run with
